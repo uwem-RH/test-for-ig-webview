@@ -1,3 +1,9 @@
+body{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
 a{
     padding: 10px;
 }
